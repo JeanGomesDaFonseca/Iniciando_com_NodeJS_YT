@@ -1,0 +1,14 @@
+{
+  "name": "iniciando_com_nodejs_yt",
+  "version": "1.0.0",
+  "description": "Curso de Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
